@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python tooling
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Node (if ever added)
+node_modules/
+package-lock.json
+
+# Build artifacts
+*.log
+*.tmp
